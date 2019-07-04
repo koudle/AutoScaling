@@ -1,7 +1,7 @@
 name: autoscaling
 description: A flexible Flutter screen solution.
 version: 0.0.1
-author: Kurt
+author: "Kurt <rxs086@gmail.com>"
 homepage: https://github.com/koudle/AutoScaling
 
 environment:
